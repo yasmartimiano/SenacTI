@@ -59,3 +59,9 @@
 
 ## Listar IPs de Conexões estabelecidas
 - netstat
+
+## Desligar o computador à força
+- shutdown /s /t 0
+
+## Listagem de comandos
+- help
